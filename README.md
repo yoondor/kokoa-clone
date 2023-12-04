@@ -1,5 +1,5 @@
-# Kokoa Clone 2023!!
+# Kakao Clone 2023
 
-practice html and CSS! good!
+nomad coder 강의 영상을 보고 따라 만들어 보는 Kakaotalk 화면.
 
-html and css are so much fun !!
+html, css 연습
